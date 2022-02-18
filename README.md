@@ -118,8 +118,8 @@ Present Flow and Prototype next week
 ## Week 4: Feb 18
 ### In Class:
 - Playtesting
+- [Discussion of Patterns of transformation](https://docs.google.com/presentation/d/1n9zAqhcZO3jCrKscb4b5o1PSspe266V90jLTBEPuxZ4/edit?usp=sharing)
 - System Design / Demo
-- Discussion of Patterns of transformation
 ### Assignment
 - Continue prototypes
 
