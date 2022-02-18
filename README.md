@@ -1,43 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/RiosITP/Escape-Room/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RiosITP/Escape-Room/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-
-# Escape Room 
+# Escape Room ITP
 ## Syllabus 2022
 - Course #: ITPG-GT.2491
 - Time: Fridays 9am – 11:30am EST
@@ -46,22 +7,22 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - ITP / IMA Discord: @rios
 - Office Hours Calendar
 
-Weekly
-Intro – Worlds
-Prototyping / Pathways
-Pathways and Puzzles
-Puzzles
-Puzzles
-First room Prototype
-Midterm Run / Play the game
-Spring Break
-Reflection / Final Proposal
-Prototype / Expand
-Test 1
-Test 2
-Final Due !
-Run it with Participants
-Final / Crit / Postmortem
+Weekly 
+Intro – Worlds 
+Prototyping / Pathways 
+Pathways and Puzzles 
+Puzzles 
+Puzzles 
+First room Prototype 
+Midterm Run / Play the game 
+Spring Break 
+Reflection / Final Proposal 
+Prototype / Expand 
+Test 1 
+Test 2 
+Final Due ! 
+Run it with Participants 
+Final / Crit / Postmortem 
 
 ## Week 1: Jan 28
 ### In Class:
@@ -116,22 +77,24 @@ Present Flow and Prototype next week
 Play Keep Talking and Nobody Explodes (Play with David if you don’t want to purchase)
 Alone Together (cooperative point and click)
 ### Watch: 
-Brenda Romero – Gaming for Understanding
-CBS Behind the scenes of Escape the room
-Risa Puno Privilege of Escape Mechanisms
-Readings:
-Standard Patterns In Choice Based Games – Sam Kabo Ashwell
-Patterns of Transformation – Ida Benedetto
-Nicholson, S. Ask Why: Creating a Better Player Experience through Environmental Storytelling and Consistency in Escape Room Design
+- Brenda Romero – Gaming for Understanding
+- CBS Behind the scenes of Escape the room
+- Risa Puno Privilege of Escape Mechanisms 
+
+### Readings:
+- Standard Patterns In Choice Based Games – Sam Kabo Ashwell
+- Patterns of Transformation – Ida Benedetto
+- Nicholson, Scott. Ask Why: Creating a Better Player Experience through Environmental Storytelling and Consistency in Escape Room Design
 
 ## Week 3: Feb 11
-In Class:
-Present / Playtest Pathways
-Questions for designers
-Slides
-Observations / Readings
-Puzzles: Physical Puzzles
-Homework:
+### In Class:
+Present / Playtest Pathways 
+Questions for designers 
+Slides 
+Observations / Readings 
+Puzzles: Physical Puzzles 
+ 
+### Assignment: 
 Work to finalize previous puzzle using feedback from class
 Prototype a new physical puzzle
 Must be collaborative
@@ -139,10 +102,11 @@ Physical part can be an input or an output
 Begin solidifying narrative elements incorporate with puzzles
 Start building a visual language for your space or objects.
 Consider Sound, lighting, Texture (both digital and physical)
-Watch: 
+
+### Watch: 
 Ida Benedetto – Patterns of transformation talk
 Real Life RPG Stag Do
-Readings:
+### Readings:
 MDA: A Formal Approach to Game Design and Game Research
 Room Escape Artist: Tips for Designers The (Potential) Magic of the Single-Room Escape
 
