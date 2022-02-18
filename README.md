@@ -70,10 +70,12 @@ Final / Crit / Postmortem
 - Agreements
 - Grouper
 - Groups
-Setting up a World / Beginning a Narrative
+- Setting up a World / Beginning a Narrative
+
+
 ### Assignments: (Due Next week)
-Ideate Settings and flows: Each person, should follow the same steps from today’s workshop to either create a new world. Make it feel a little realer, and start thinking about players / characters. Next class we will exchange ideas and choose groups
-Go into detail about how the environment is constructed
+- Ideate Settings and flows: Each person, should follow the same steps from today’s workshop to either create a new world. Make it feel a little realer, and start thinking about players / characters. Next class we will exchange ideas and choose groups
+Go into detail about how the environment is constructed.
 Where is in the room?
 Who was in the room? Who is in the room?
 Why are they in the room?
