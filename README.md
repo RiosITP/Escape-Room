@@ -72,9 +72,10 @@ Final / Crit / Postmortem
 - Groups
 - Setting up a World / Beginning a Narrative
 
-
 ### Assignments: (Due Next week)
-- Ideate Settings and flows: Each person, should follow the same steps from today’s workshop to either create a new world. Make it feel a little realer, and start thinking about players / characters. Next class we will exchange ideas and choose groups
+#### Ideate Settings and flows: 
+Each person, should follow the same steps from today’s workshop to either create a new world. Make it feel a little realer, and start thinking about players / characters. Next class we will exchange ideas and choose groups.
+
 Go into detail about how the environment is constructed.
 Where is in the room?
 Who was in the room? Who is in the room?
@@ -82,11 +83,12 @@ Why are they in the room?
 What are there circumstances (in the story) that led your players to be in this situation
 This should be something you can actually build real puzzles for
 Next class we will exchange ideas, choose groups, and start prototyping
-Field Notes (Blog Post) on an escape room:
+
+#### Field Notes (Blog Post) on an escape room:
 Do an escape room. Virtual rooms are ok. In person rooms are optional based on comfort level. Virtual rooms should be cooperative and multiplayer, not single player point and click:
 Take note of the design of the room.  What are the rules of the room? How do different players interact with the room and each other? What does the room and its objects look like?  What are the different types of puzzles? How is the game setup? What is the role of the game master?
 Add your name HERE to the blog list
-Watch / Listen
+#### Watch / Listen
 NK Jemison – Worldbuilding workshop
 Readings:
 The Great Escape
