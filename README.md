@@ -90,7 +90,7 @@ Readings:
 The Great Escape
 “Escape Room Games” Wiemker, Elumir, Clare
 
-Week 2: Feb 04
+## Week 2: Feb 04
 In Class: Pathways & Paper Prototyping
 Review World Building
 Report back and analyze the escape room experiences
@@ -117,7 +117,7 @@ Standard Patterns In Choice Based Games – Sam Kabo Ashwell
 Patterns of Transformation – Ida Benedetto
 Nicholson, S. Ask Why: Creating a Better Player Experience through Environmental Storytelling and Consistency in Escape Room Design
 
-Week 3: Feb 11
+## Week 3: Feb 11
 In Class:
 Present / Playtest Pathways
 Questions for designers
@@ -139,7 +139,7 @@ Readings:
 MDA: A Formal Approach to Game Design and Game Research
 Room Escape Artist: Tips for Designers The (Potential) Magic of the Single-Room Escape
 
-Week 4: Feb 18
+## Week 4: Feb 18
 In Class:
 Playtesting
 System Design / Demo
@@ -157,7 +157,8 @@ People Make Games We spoil a World Class Escape Room to See how it Works
 Readings:
 Nicholson,S. (2015). Peeking behind the locked door: A survey of escape room facilities.
 An Exploration of Escape Room Hint Systems.
-Week 5: Feb 25
+
+## Week 5: Feb 25
 In Class:
 Playtest puzzles
 Game Mastering and Hinting
@@ -172,7 +173,8 @@ Escape This Podcast Game Materials
 Readings:
 ‘This Is Not a Game’: Immersive Aesthetics and Collective Play
 Mimesis vs Diegesis in Escape Rooms
-Week 6: March 04
+
+## Week 6: March 04
 In Class: Playtest / Prototypes
 Surveying and User research
 Check ins
@@ -183,7 +185,8 @@ Readings:
 13 rules for escape room puzzle design
 Motivations of Play in MMORPGs
 Personality and Play Styles
-Week 7: March 11
+
+## Week 7: March 11
 In Class: Play Through
 Round Robin testing of Games
 Surveying and User research
@@ -199,7 +202,8 @@ Flow with Key Story Points
 Puzzles and Solutions (including existing prototypes)
 GM Hints and Clues
 Spring Break No Class March 18
-Week 8: March 25
+
+## Week 8: March 25
 In Class: Refine
 Present Final Project Ideas
 Homework:
@@ -213,7 +217,8 @@ Time Limits (Clock!)
 Readings:
 Case in Escape Room Tech
 Double Inputting in Escape Room Tech
-Week 9: Apr 01
+
+## Week 9: Apr 01
 In Class:
 Final Project Pathways and prototypes
 Guest Talk: TBD
@@ -221,7 +226,8 @@ Homework:
 Prototype Puzzles
 Watch: 
 Readings:
-Week 10: April 08
+
+## Week 10: April 08
 In Class:
 Workshop/Playtest puzzles
 Guest Talk: TBD
@@ -236,7 +242,8 @@ Create “marketing” assets for game
 Start scheduling times for strangers / public to play
 Schedule times that would be convenient for students and non students (evening / weekend if possible)
 Decide on a recording method for documentation (zoom / other screen recorders)
-Week 11: April 15
+
+## Week 11: April 15
 In Class:
 Guest Playtester
 Prototypes / playtests
@@ -247,20 +254,23 @@ Prepare to open your game to the public!
 Schedule times that would be convenient for students and non students
 Watch: 
 Readings:
-Week 12: April 22
+
+## Week 12: April 22
 In Class:
 Present Final
 Homework:
 Run the game for the public
 Survey and adjust
 Document
-Week 13: April 29
+
+## Week 13: April 29
 In Class:
 Present Adjusted final and initial documentation
 Homework:
 Run the game again
 Document the game
-Week 14: May 06
+
+## Week 14: May 06
 In Class:
 Documentation presentations
 Guest Critique / Walkthrough
