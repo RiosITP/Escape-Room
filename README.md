@@ -73,15 +73,18 @@ Paper Prototype
 Paper Prototype the puzzles, 2 per group is ideal, but have at least 1
 Puzzles do not have to use any specific tech, or tech at all, but should be cooperative.
 Present Flow and Prototype next week
-### Play:
+
+
+**Play:**
 Play Keep Talking and Nobody Explodes (Play with David if you don’t want to purchase)
-Alone Together (cooperative point and click)
-### Watch: 
+Alone Together (cooperative point and click) 
+
+**Watch:**
 - Brenda Romero – Gaming for Understanding
 - CBS Behind the scenes of Escape the room
 - Risa Puno Privilege of Escape Mechanisms 
 
-### Readings:
+**Readings:**
 - Standard Patterns In Choice Based Games – Sam Kabo Ashwell
 - Patterns of Transformation – Ida Benedetto
 - Nicholson, Scott. Ask Why: Creating a Better Player Experience through Environmental Storytelling and Consistency in Escape Room Design
