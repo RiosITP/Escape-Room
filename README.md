@@ -73,7 +73,8 @@ Final / Crit / Postmortem
 - Setting up a World / Beginning a Narrative
 
 ### Assignments: (Due Next week)
-#### Ideate Settings and flows: 
+
+Ideate Settings and flows: 
 Each person, should follow the same steps from today’s workshop to either create a new world. Make it feel a little realer, and start thinking about players / characters. Next class we will exchange ideas and choose groups.
 
 Go into detail about how the environment is constructed.
@@ -84,35 +85,37 @@ What are there circumstances (in the story) that led your players to be in this 
 This should be something you can actually build real puzzles for
 Next class we will exchange ideas, choose groups, and start prototyping
 
-#### Field Notes (Blog Post) on an escape room:
+- Field Notes (Blog Post) on an escape room:
 Do an escape room. Virtual rooms are ok. In person rooms are optional based on comfort level. Virtual rooms should be cooperative and multiplayer, not single player point and click:
 Take note of the design of the room.  What are the rules of the room? How do different players interact with the room and each other? What does the room and its objects look like?  What are the different types of puzzles? How is the game setup? What is the role of the game master?
 Add your name HERE to the blog list
-#### Watch / Listen
+
+- Watch / Listen
 NK Jemison – Worldbuilding workshop
-Readings:
+- Readings:
 The Great Escape
 “Escape Room Games” Wiemker, Elumir, Clare
 
 ## Week 2: Feb 04
-In Class: Pathways & Paper Prototyping
+### In Class: Pathways & Paper Prototyping
 Review World Building
 Report back and analyze the escape room experiences
 Narrative Slides
 Create midterm Groups and start working
 Seed the flow with some potential puzzle ideas
 Paper Prototyping Demo
-Assignments:
+
+### Assignments:
 Iterate on an initial Game Flow
 Seed the flow with some potential puzzle ideas
 Paper Prototype
 Paper Prototype the puzzles, 2 per group is ideal, but have at least 1
 Puzzles do not have to use any specific tech, or tech at all, but should be cooperative.
 Present Flow and Prototype next week
-Play:
+### Play:
 Play Keep Talking and Nobody Explodes (Play with David if you don’t want to purchase)
 Alone Together (cooperative point and click)
-Watch: 
+### Watch: 
 Brenda Romero – Gaming for Understanding
 CBS Behind the scenes of Escape the room
 Risa Puno Privilege of Escape Mechanisms
