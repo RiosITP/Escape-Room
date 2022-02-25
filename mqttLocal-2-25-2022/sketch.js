@@ -2,10 +2,6 @@ let incoming; // variable for most recent incoming message
 let inpt;
 let msgs=[]; // array to store all incoming messages
 
-function preload() {
- 
-}
-
 function setup() {
   createCanvas(windowWidth, windowHeight);
 
@@ -34,25 +30,24 @@ function draw() {
 }
 
 //// for connecting to Shiftr Cloud Broker:
-// const client = mqtt.connect('wss:// YOUR BROKER INSTANCE   :443', {
+// const client = mqtt.connect('wss://YOUR-BROKER-INSTANCE.cloud.shiftr.io   :443', {
 //   clientId: 'YOUR CLIENT ID',
 //   username: 'YOUR USER KEY',
 //   password: 'YOUR TOKEN'
 // });
 
 
-
 // for running locally
 // local host for your own computer. Use port 1884
 // ip address for another computer on the network.
-// eg:
-// const client = mqtt.connect('ws://10.23.01.100:1884', {
-//   clientId: 'p5 Local - David'
+// for example
+// const client = mqtt.connect('ws://10.XX.XX.XXX:1884', {
+//   clientId: 'MY COOL Descriptive ID'
 // });
 
 
 const client = mqtt.connect('ws://localhost:1884', {
-  clientId: 'p5 Local - David'
+  clientId: 'p5 Local - RIOS'
 });
 
 
