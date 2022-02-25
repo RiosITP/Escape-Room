@@ -8,8 +8,9 @@
   - Arduino MKR 1000, MKR 1010 or Uno WiFi Rev.2 board
 
   This example code is in the public domain.
+  
   Adapted by David Rios
-  for ITP Escape Room 2022
+  for ITP Escape Room 2022 Example Using Shiftr.io Desktop and Arduino Nano 33 IoT
 */
 
 #include <ArduinoMqttClient.h>
@@ -36,7 +37,7 @@ WiFiClient wifiClient;
 MqttClient mqttClient(wifiClient);
 
 // ip or url of server
-const char broker[] = "10.23.10.188";
+const char broker[] = "YOUR IP OR BROKER URL";
 int        port     = 1883;
 const char topic[]  = "escape";
 
@@ -104,7 +105,6 @@ void loop() {
     mqttClient.beginMessage(topic);
     mqttClient.print("pressed");
     mqttClient.endMessage();
-
     Serial.println();
 
     waspressed = 0;
@@ -113,7 +113,6 @@ void loop() {
     Serial.print("Sending message to topic: ");
     Serial.println(topic);
     Serial.println("released");
-    //Serial.println(msg);
 
     // send message, the Print interface can be used to set the message contents
     mqttClient.beginMessage(topic);
@@ -124,11 +123,12 @@ void loop() {
     waspressed = 1;
   }
 
+  
+  // Timer to send message every 45 seconds just to keep this alive
   if (millis() - pmillis >= interval) {
     Serial.print("Sending message to topic: ");
     Serial.println(topic);
     Serial.println("stay alive");
-    //Serial.println(msg);
 
     // send message, the Print interface can be used to set the message contents
     mqttClient.beginMessage(topic);
